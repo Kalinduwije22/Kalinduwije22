@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Kalinduwije22
-- 👀 I’m interested in rugby
-- 🌱 I’m currently learning industrial statistics and financial mathematics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via kala22293@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 IT & Management Undergraduate | 🤖 Aspiring Machine Learning Developer
+Currently pursuing a degree in Information Technology & Management, with a growing passion for building intelligent systems and data-driven solutions.
+💡 Skilled in Python, R, and machine learning techniques including XGBoost, Random Forest, and data visualization.
+🌱 Exploring model deployment with tools like R Shiny and Streamlit.
+📊 Interested in the intersection of business insights and machine learning innovation.
+📫 How to reach me via kala22293@gmail.com
+
 
 <!---
 Kalinduwije22/Kalinduwije22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
